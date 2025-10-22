@@ -28,7 +28,7 @@ export default function Hero() {
         </div>
         <div className="hidden md:block">
           <img
-            src="https://images.unsplash.com/photo-1608138182546-0f9ef57bea36?auto=format&fit=crop&w=800&q=80"
+            src="/images/set_navidad.jpeg"
             alt="Familia posando en set navideño"
             className="rounded-lg shadow-lg"
             width="600"
